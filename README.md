@@ -1,2 +1,6 @@
 # learngit
-learn git
+project for learning git.
+
+## conflict
+
+how to deal conflict
